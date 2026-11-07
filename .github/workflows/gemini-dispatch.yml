@@ -22,6 +22,8 @@ defaults:
   run:
     shell: 'bash'
 
+permissions: {}
+
 jobs:
   debugger:
     if: |-
